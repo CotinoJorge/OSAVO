@@ -1,5 +1,6 @@
 # OSAVO
 Open Source Auspicious Visual Overlay
+
 A SSH 1106 OLED was used for the first tries (AZDelivery 1.3 Inch Oled)
 The exact model of reflex scope i used was this one:
 https://www.amazon.de/-/en/gp/product/B00IODSYTO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
