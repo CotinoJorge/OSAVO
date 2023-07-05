@@ -7,6 +7,10 @@ https://www.amazon.de/-/en/gp/product/B00IODSYTO/ref=ppx_yo_dt_b_search_asin_tit
 It would be much better to be able to source the optics without the rest.
 For people that use other optics i uploaded a calibrator with variable optical length, i never got to print it, so it maybe needs changes.
 
+I wrote this quickly before going to work so TODOS:
+-Upload the Arduino sketches for the calibration cross
+-Upload wiring diagrams for raspberry pi pico and seed XIAO ESP32-c3
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
